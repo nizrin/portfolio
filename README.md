@@ -30,11 +30,13 @@ To view the website locally or make modifications, follow these steps:
 
 ## Contributing
 
-I appreciate any suggestions, feedback, or contributions to enhance this personal portfolio website. If you would like to contribute, please follow the guidelines in the `CONTRIBUTING.md` file.
+I appreciate any suggestions, feedback, or contributions to enhance this personal portfolio website. 
 
 ## Contact
 
 If you have any questions or inquiries, please feel free to reach out to me through the contact information provided in the website or by using the contact form.
 
 Thank you for visiting my personal portfolio repository! I hope you find it informative and visually appealing.
-![Portfolio](https://github.com/Venkateeshh/Portfolio-Website/assets/117290841/d05942e3-6970-47eb-9757-482f11bb6044)
+
+![Screenshot (50)](https://github.com/user-attachments/assets/bed179b3-ee78-459f-8fc3-0084d2960359)
+
