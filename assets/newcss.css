@@ -1178,5 +1178,29 @@ img {
   50% { border-color: transparent }
 }
 
+/* animation */
 
+/* ===================== */
+/* 👇 Slide In Animation 👇 */
+/* ===================== */
+@keyframes slideInUp {
+  0% {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.slide-in {
+  opacity: 0;
+  transform: translateY(50px);
+  transition: all 0.5s ease-in-out;
+}
+
+.slide-in.show {
+  animation: slideInUp 0.8s forwards;
+}
 
